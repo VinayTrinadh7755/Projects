@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "server.h": "c",
+        "select.h": "c",
+        "global.h": "c"
+    }
+}
